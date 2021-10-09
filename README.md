@@ -3,4 +3,5 @@
 
 ## 源码系列
 [validate-npm-package-name源码分析](https://github.com/xiong-ling/learning-series/issues/1)
+
 [Emitter事件派发---mitt和tiny-emitter源码分析](https://github.com/xiong-ling/learning-series/issues/2)
