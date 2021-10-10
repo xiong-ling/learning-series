@@ -5,3 +5,6 @@
 [validate-npm-package-name源码分析](https://github.com/xiong-ling/learning-series/issues/1)
 
 [Emitter事件派发---mitt和tiny-emitter源码分析](https://github.com/xiong-ling/learning-series/issues/2)
+
+## JavaScript基础系列
+[DOM事件模型](https://github.com/xiong-ling/learning-series/issues/3)
