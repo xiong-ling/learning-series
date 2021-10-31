@@ -8,3 +8,6 @@
 
 ## JavaScript基础系列
 [DOM事件模型](https://github.com/xiong-ling/learning-series/issues/3)
+
+## Jest测试系列
+[Jest入门（一）](https://github.com/xiong-ling/learning-series/issues/4)
