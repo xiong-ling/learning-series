@@ -15,3 +15,6 @@
 [Jest入门（二）](https://github.com/xiong-ling/learning-series/issues/5)
 
 [Jest入门（三）](https://github.com/xiong-ling/learning-series/issues/6)
+
+## JavaScript基本数据结构系列
+[实现JavaScript基本数据结构系列---栈](https://github.com/xiong-ling/learning-series/issues/7)
