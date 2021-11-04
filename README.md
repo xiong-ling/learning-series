@@ -18,3 +18,5 @@
 
 ## JavaScript基本数据结构系列
 [实现JavaScript基本数据结构系列---栈](https://github.com/xiong-ling/learning-series/issues/7)
+
+[实现JavaScript基本数据结构系列---队列 ](https://github.com/xiong-ling/learning-series/issues/8)
