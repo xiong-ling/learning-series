@@ -22,3 +22,5 @@
 [实现JavaScript基本数据结构系列---队列](https://github.com/xiong-ling/learning-series/issues/8)
 
 [实现JavaScript基本数据结构系列---链表](https://github.com/xiong-ling/learning-series/issues/9)
+
+[实现JavaScript基本数据结构系列---集合Set](https://github.com/xiong-ling/learning-series/issues/10)
