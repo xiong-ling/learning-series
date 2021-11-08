@@ -26,3 +26,5 @@
 [实现JavaScript基本数据结构系列---集合Set](https://github.com/xiong-ling/learning-series/issues/10)
 
 [实现JavaScript基本数据结构系列---树](https://github.com/xiong-ling/learning-series/issues/11)
+
+[实现JavaScript基本数据结构系列---堆](https://github.com/xiong-ling/learning-series/issues/12)
