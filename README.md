@@ -38,3 +38,5 @@
 
 [Webpack高级系列（一）](https://github.com/xiong-ling/learning-series/issues/16)
 
+[Webpack高级系列（二）](https://github.com/xiong-ling/learning-series/issues/17)
+
