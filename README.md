@@ -40,3 +40,6 @@
 
 [Webpack高级系列（二）](https://github.com/xiong-ling/learning-series/issues/17)
 
+[Webpack自定义Loader和Plugin](https://github.com/xiong-ling/learning-series/issues/18)
+
+
