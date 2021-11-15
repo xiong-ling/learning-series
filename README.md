@@ -31,6 +31,10 @@
 
 [实现JavaScript基本数据结构系列---图](https://github.com/xiong-ling/learning-series/issues/13)
 
+## JavaScript算法系列
+### 排序算法
+[排序算法（一）](https://github.com/xiong-ling/learning-series/issues/19)
+
 ## Webpack系列
 [Webpack基础系列---初识篇](https://github.com/xiong-ling/learning-series/issues/14)
 
