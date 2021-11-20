@@ -59,3 +59,4 @@
 ### 源码学习系列
 [React源码系列（一）React初识](https://github.com/xiong-ling/learning-series/issues/23)
 
+[React源码系列（二）深入理解jsx](https://github.com/xiong-ling/learning-series/issues/24)
