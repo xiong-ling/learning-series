@@ -1,12 +1,14 @@
 # learning-series
 学习系列，随便写的一些文章，或者一些计划表
 
-2022年后写在了[wolai网站](https://www.wolai.com/h1CbyVrTbcJZLPrypr1g93)
+在[个人小网站](https://www.wolai.com/h1CbyVrTbcJZLPrypr1g93)也记录了一下
 
 ## 源码系列
 [validate-npm-package-name源码分析](https://github.com/xiong-ling/learning-series/issues/1)
 
 [Emitter事件派发---mitt和tiny-emitter源码分析](https://github.com/xiong-ling/learning-series/issues/2)
+
+[p-limit源码笔记](https://github.com/xiong-ling/learning-series/issues/25)
 
 ## JavaScript基础系列
 [DOM事件模型](https://github.com/xiong-ling/learning-series/issues/3)
